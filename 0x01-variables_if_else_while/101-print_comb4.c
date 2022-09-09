@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 /**
  * main - Entry point
  *
@@ -8,7 +8,7 @@
 int main(void)
 {
 	int d = 48, a = 48, i = 48;
-	
+
 	while (d < 58)
 	{
 		a = 48;
