@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_line - prints line using "_" character of n length
+ * main - prints line using "_" character of n length
  *@n: length of the line
  * Return: void
  */
 
-void print_line(int n)
+void print_line(int n);
 {
 	int i = 0;
 
