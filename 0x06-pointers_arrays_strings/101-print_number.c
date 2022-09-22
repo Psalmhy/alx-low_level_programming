@@ -2,7 +2,7 @@
 
 /**
  * print_number - function to print int using _putchar
- * Return: void
+ *
  * @num: int to print
  */
 
