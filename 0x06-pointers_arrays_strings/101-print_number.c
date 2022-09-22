@@ -6,7 +6,7 @@
  * @num: int to print
  */
 
-void print_number(int n)
+void print_number(int num)
 {
 	unsigned int d = 10, n;
 
@@ -14,7 +14,8 @@ void print_number(int n)
 	{
 		_putchar('-');
 		num *= -1;
-	}			n = num;
+	}
+	n = num;
 	if (n < d)
 	{
 		_putchar('0' + n);
